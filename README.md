@@ -1,0 +1,1 @@
+# SGFirmwarePatcher-Fix
